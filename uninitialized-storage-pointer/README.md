@@ -17,3 +17,5 @@ New owner: 0x28179d1bc64ca20d08a6e8dac445943e34d44451
 ```
 
 By setting struct property we also rewrite contract owner.
+
+To avoid use `memory` keyword and function identifiers: `pure` and `view`.
